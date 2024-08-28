@@ -4,3 +4,5 @@
 
 This 3D design is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
+
+![Slide3](https://github.com/user-attachments/assets/083784be-a544-467f-bbc6-b9a4e979065a)
