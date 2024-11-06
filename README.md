@@ -6,3 +6,6 @@ This 3D design is licensed under the Creative Commons Attribution-ShareAlike 4.0
 
 
 ![Slide3](https://github.com/user-attachments/assets/083784be-a544-467f-bbc6-b9a4e979065a)
+
+This work was part of a research published in REM2024 conference:
+Abdelal, Q. M., Al-shishani, G., & Al-Kilani, M. R. M. (2024, September). Optimized open-source pumping apparatus for precision fertigation and smart agriculture experimentations. Proceedings of the 2024 22nd International Conference on Research and Education in Mechatronics (REM). IEEE. https://doi.org/10.1109/REM63063.2024.10735615
